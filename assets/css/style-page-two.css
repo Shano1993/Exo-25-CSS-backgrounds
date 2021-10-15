@@ -1,0 +1,60 @@
+
+div {
+    width: 200px;
+    height: 200px;
+}
+#div-one {
+    background-image: url("/assets/img/chat.jpeg");
+    background-size: cover;
+}
+
+#div-two {
+    background-image: url("/assets/img/chien.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+
+#div-three {
+    background-image: url("/assets/img/ecureuil.jpeg");
+    background-size: cover;
+}
+
+#div-four {
+    background-image: url("/assets/img/mouette.jpg");
+    background-repeat: repeat-x;
+    background-size: 100px;
+
+}
+
+#div-five {
+    background-image: url("/assets/img/koala.jpg");
+    background-size: cover;
+}
+
+#div-six {
+    background-image: url("/assets/img/lion.jpg");
+    background-repeat: repeat-y;
+    background-size: 50px;
+}
+
+#div-seven {
+    background-image: url("/assets/img/mouton.jpg");
+    background-size: cover;
+}
+
+#div-eight {
+    background-image: url("/assets/img/panda-roux.jpg");
+    background-repeat: repeat-x;
+    background-size: 100px;
+}
+
+#div-nine {
+    background-image: url("/assets/img/tigre.jpg");
+    background-size: contain;
+}
+
+#div-ten {
+    background-image: url("/assets/img/chat.jpeg");
+    background-repeat: repeat-x;
+    background-size: 100px;
+}
